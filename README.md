@@ -1,3 +1,27 @@
+# heroku email : a0922810979@gmail.com 
+  pass : zxcv123456
+
+step1 : git clone 
+
+## 修改app.py 
+
+## 上傳heroku
+step1.設定遠端
+heroku git:remote -a hidden-refuge-45131
+
+step2.
+git add. 
+git commit -m "."
+git push heroku master
+
+
+
+
+
+
+
+
+
 # line-bot-Tutorial
 
  教你建立自己的 line-bot 使用 python flask 📝
