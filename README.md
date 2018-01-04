@@ -1,22 +1,32 @@
 # heroku email : a0922810979@gmail.com 
-  pass : zxcv123456
+# pass : zxcv123456
 
-step1 : git clone 
+##step1 : git clone https://github.com/102306075/QFproject.git
 
-## 修改app.py 
 
-## 上傳heroku
-step1.設定遠端
+## 要修改內容 
+修改app.py 
+
+## 修改完畢之後上傳heroku  更新Linebot
+
+###step1. heroku login
+heroku email : a0922810979@gmail.com 
+pass : zxcv123456
+
+
+###step2.設定遠端
 heroku git:remote -a hidden-refuge-45131
 
-step2.
+###step3.
 git add. 
 git commit -m "."
 git push heroku master
 
+## Linebot 
+行動條碼<img src="http://qr-official.line.me/L/pN8KgUqOH5.png">
 
 
-
+加入好友<a href="https://line.me/R/ti/p/%40isu1403v"><img height="36" border="0" alt="加入好友">
 
 
 
