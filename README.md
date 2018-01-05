@@ -21,8 +21,9 @@ git commit -m ".1"
 git push heroku master
 
 ## Linebot 
-行動條碼
-##![alt tag](http://qr-official.line.me/L/pN8KgUqOH5.png)
+
+(https://i.imgur.com/JMOFN42.jpg)
+
 
 @isu1403v
 
