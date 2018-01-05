@@ -5,7 +5,7 @@
 
 
 ## 要修改內容 
-修改app.py 
+修改app.py &
 
 ## 修改完畢之後上傳heroku  更新Linebot
 
@@ -19,7 +19,7 @@ heroku git:remote -a hidden-refuge-45131
 
 ###step3.
 git add. 
-git commit -m "."
+git commit -m ".1"
 git push heroku master
 
 ## Linebot 
