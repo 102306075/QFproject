@@ -1,9 +1,9 @@
 
-##step1 : git clone https://github.com/twtrubiks/line-bot-tutorial.git
+step1 : git clone https://github.com/twtrubiks/line-bot-tutorial.git
 
 
 ## 要修改內容 
-修改app.py &
+修改app.py
 
 ## 修改完畢之後上傳heroku  更新Linebot
 
@@ -22,11 +22,7 @@ git push heroku master
 
 ## Linebot 
 行動條碼
-##<img src="http://qr-official.line.me/L/pN8KgUqOH5.png">
-
-
-加入好友
-##<a href="https://line.me/R/ti/p/%40isu1403v"><img height="36" border="0" alt="加入好友">
+##![alt tag](http://qr-official.line.me/L/pN8KgUqOH5.png)
 
 @isu1403v
 
